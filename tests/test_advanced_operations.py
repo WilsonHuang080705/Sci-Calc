@@ -1,7 +1,7 @@
 import math
 
 import pytest
-from advanced_operations import AdvancedOperations
+from src.advanced_operations import AdvancedOperations
 
 
 def test_cube_root():
