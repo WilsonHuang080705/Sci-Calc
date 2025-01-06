@@ -1,5 +1,5 @@
 import pytest
-from basic_operations import BasicOperations
+from src.basic_operations import BasicOperations
 
 
 def test_add():
